@@ -1,0 +1,42 @@
+[
+	{
+		"front" : "How many states are in the United States of America?",
+		"back" : "50"
+	},
+	{
+		"front" : "What is the capital of New Jersey?",
+		"back" : "Trenton"
+	},
+	{
+		"front" : "Which city is referred to as the Windy City? It's state?",
+		"back" : "Chicago, Illinois"
+	},
+	{
+		"front" : "What is the name of the national anthem?",
+		"back" : "Star Spangled Banner"
+	},
+	{
+		"front" : "What year did we first land on the moon?",
+		"back" : "1969"
+	},
+	{
+		"front" : "How many years did the Grinch put up with the Whos?",
+		"back" : "53"
+	},
+	{
+		"front" : "Who coined the phrase time is money?",
+		"back" : "Benjamin Franklin"
+	},
+	{
+		"front" : "What state is called the Lone Star State?",
+		"back" : "Texas"
+	},
+	{
+		"front" : "How many shots are in a fifth?",
+		"back" : "17"
+	},
+	{
+		"front" : "Who was the first person to say hello?",
+		"back" : "Thomas Edison"
+	}
+]

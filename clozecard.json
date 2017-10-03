@@ -1,0 +1,42 @@
+[
+	{
+		"text" : "There are 50 states in the United States of America.",
+		"cloze" : "50"
+	},
+	{
+		"text" : "Trenton is the capital of New Jersey.",
+		"cloze" : "Trenton"
+	},
+	{
+		"text" : "Chicago, Illinois is referred to the Windy City.",
+		"cloze" : "Chicago, Illinois"
+	},
+	{
+		"text" : "The national anthem is titled the Star Spangled Banner.",
+		"cloze" : "Star Spangled Banner"
+	},
+	{
+		"text" : "We laned on the moon in 1969.",
+		"cloze" : "1969"
+	},
+	{
+		"text" : "The Grinch put up with the Whos for 53 years.",
+		"cloze" : "53"
+	},
+	{
+		"text" : "Benjamin Franklin coined the phrase time is money.",
+		"cloze" : "Benjamin Franklin"
+	},
+	{
+		"text" : "Texas is called the Lone Star State.",
+		"cloze" : "Texas"
+	},
+	{
+		"text" : "There are 17 shots in a fifth.",
+		"cloze" : "17"
+	},
+	{
+		"text" : "Thomas Edison was the first person to say hello as a greeting.",
+		"cloze" : "Thomas Edison"
+	}
+]
